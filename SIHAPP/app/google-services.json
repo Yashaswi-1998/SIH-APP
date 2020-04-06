@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010502047417",
+    "firebase_url": "https://sih-app-9773c.firebaseio.com",
+    "project_id": "sih-app-9773c",
+    "storage_bucket": "sih-app-9773c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010502047417:android:832c704e6bd4652090ed68",
+        "android_client_info": {
+          "package_name": "com.example.sihapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010502047417-34jo2bct2re8rpabaumiiiq78pn40o8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sihapp",
+            "certificate_hash": "51afeb922afbf1e00bd2f343015b0fb3948ab1cc"
+          }
+        },
+        {
+          "client_id": "1010502047417-bfpt4sp9tq54ps6tacvsugtksjqhp4js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-L-Fj-Imwl0GXaxd4xehOxZguafkJi2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010502047417-bfpt4sp9tq54ps6tacvsugtksjqhp4js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
